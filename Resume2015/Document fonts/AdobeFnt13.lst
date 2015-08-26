@@ -1,0 +1,24 @@
+%!Adobe-FontList 1.13
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Orbitron-Light
+FamilyName:Orbitron
+StyleName:Light
+FullName:Orbitron Light
+MenuName:Orbitron
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Git Sources\Resume\Resume2014 Print\Document fonts\Orbitron Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:19344
+FileModTime:1306352856
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
